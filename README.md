@@ -24,6 +24,6 @@
 ---
 
 ### 🔧 Pinned Project
-- **[B.Tech-Ind-Year-project-1](https://github.com/sricharanchakravarthula/VOTER-MANAGEMENT-SYSTEM)**  
+- **[B.Tech-Ist-Year-project-1](https://github.com/sricharanchakravarthula/VOTER-MANAGEMENT-SYSTEM)**  
   A simple voter management system in C.
 
